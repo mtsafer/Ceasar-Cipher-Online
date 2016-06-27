@@ -1,0 +1,20 @@
+body{
+	background-color: black;
+}
+
+textarea{
+	display: block;
+	margin-bottom: 20px;
+	height: 200px;
+	width: 400px;
+}
+
+#key{
+	width:40px;
+}
+
+#output{
+	margin-top: 10px;
+	color: white;
+	font-size: 18px;
+}
